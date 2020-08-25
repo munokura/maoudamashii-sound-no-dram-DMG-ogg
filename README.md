@@ -1,4 +1,3 @@
-サイト魔王魂で配布してるmidiファイルにループ処理を施し、チップチューン風にアレンジしたoggに変換したものです。
+下記参照
 
-▼オリジナル配布元
-https://maoudamashii.jokersounds.com/
+https://fungamemake.com/archives/10401
